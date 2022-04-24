@@ -1,0 +1,24 @@
+{
+  "name": "dither-sketch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "npx parcel index.html"
+  },
+  "author": "Meve Ameline",
+  "license": "ISC",
+  "dependencies": {
+    "p5": "^1.4.1",
+    "parcel": "^2.0.0-beta.1",
+    "parcel-bundler": "^1.12.4",
+    "simplex-noise": "^2.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.13.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "sass": "^1.29.0"
+  }
+}
